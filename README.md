@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @krishnapriya-deepak
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 📫 How to reach me krishpriyadk@gmail.com
+
+
 
 <!---
 krishnapriya-deepak/krishnapriya-deepak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
